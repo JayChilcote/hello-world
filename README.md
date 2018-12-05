@@ -1,3 +1,5 @@
 # hello-world
-# hello joe
-# do you want my bicycle?
+
+hello joe
+do you want my bicycle?
+
